@@ -99,13 +99,3 @@ a {
 i.fab {
 	color: #ff0000;
 }
-.container2{
-    display: flex;
-    margin: 20px;
-    justify-content: center;
-    flex-flow: row wrap;
-
-}
-.item1{
-    padding: 20px;
-}
